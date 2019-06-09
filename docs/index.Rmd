@@ -1,0 +1,35 @@
+---
+title: "The evolution and importance of the R-Ladies São Paulo chapter in Brazil "
+subtitle: "Topic: Open science, Education & Community"
+author: "Beatriz Milz & Bruna Wundervald"
+#institute: "R-Ladies São Paulo"
+date: "11/07/2019"
+output:
+  xaringan::moon_reader:
+    css: [kunoichi, rladies-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+```
+
+
+## Beatriz Milz
+
+- Doctorate Student - Environemntal Sciences - University of São Paulo, Brazil
+
+- R-Ladies São Paulo Co-organizer
+
+- Contact: 
+    - Email: <a href="mailto:beatriz.milz@usp.br">beatriz.milz@usp.br</a>
+    - Página: https://beatrizmilz.github.io/
+    - Github: <a href="http://github.com/beatrizmilz">@beatrizmilz</a> 
+    - Twitter: <a href="http://twitter.com/beatrizmilz">@BeaMilz</a> 
+
+
+## Bruna Wundervald
