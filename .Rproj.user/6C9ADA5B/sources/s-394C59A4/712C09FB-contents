@@ -1,0 +1,84 @@
+---
+title: "The evolution and importance of the R-Ladies São Paulo chapter in Brazil "
+subtitle: "Topic: Open science, Education & Community"
+author: "Beatriz Milz & Bruna Wundervald"
+#institute: "R-Ladies São Paulo"
+date: "11/07/2019"
+output:
+  xaringan::moon_reader:
+    css: ["css/kunoichi.css", "css/ninjutsu.css", "css/rladies-fonts.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+```
+
+
+## Beatriz Milz
+- R-Ladies São Paulo Co-organizer
+
+- Email: <a href="mailto:beatriz.milz@usp.br">beatriz.milz@usp.br</a> | Webpage: https://beatrizmilz.github.io/  | Github: <a href="http://github.com/beatrizmilz">@beatrizmilz</a> | Twitter: <a href="http://twitter.com/beatrizmilz">@BeaMilz</a> 
+
+- Doctorate Student - Environmental Sciences - University of São Paulo, Brazil
+```{r, out.width="100%"}
+knitr::include_graphics("img/logos_bia.png")
+```
+<center> FAPESP postgraduate scholarship nº 2018/23771-6 </center>
+
+<center> FAPESP Thematic Project  nº 2015/03804-9 </center>
+
+---
+## Bruna Wundervald
+
+(Bru adiciona aqui uma apresentação sua)
+
+
+
+---
+class:  center, middle
+
+```{r, out.width="15%"}
+knitr::include_graphics("img/hexlogorladies.jpeg")
+```
+## What is R-Ladies?
+
+Worldwide organization that  promotes **gender diversity** in the R community. 
+
+# How?
+
+Meetups and mentorship in a friendly and safe environment. 
+
+
+# For whom?
+Underrepresented genders - including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender
+
+
+Learn more: [About us - R-Ladies](https://rladies.org/about-us/)
+
+
+
+
+---
+
+# R-Ladies in Brazil
+
+- 12 R-Ladies Chapters.
+
+Reference: [R-Ladies Shiny App](https://gqueiroz.shinyapps.io/rshinylady/)  (11/06/2019)
+---
+
+
+## Abstract
+R-Ladies is an worldwide organization that promotes gender diversity in the R community. Brazil is a developing country in Latin America, that currently has 9 R-Ladies chapters, and the one in Sao Paulo was created in August 2018. By February 2019, it had almost 300 members, showing an impressive growth in such a small period of time. The chapter already held 7 events (four 3 hour meetups, one datathon and 2 whole day workshops), and other meetings are being planned. All of the content presented is made available on github, so anyone can access it. The group provides a safe environment for people interested in R, and all of the activities are free to attend. The gratuity of the activities is very relevant in the Brazilian context, since the few R courses available in Portuguese are often expensive, and there is no other active R group in Sao Paulo. The chapter also collaborates with other projects, through lectures and workshops, also always open to the community. The increasing popularity of the group shows us how important it is to support it, what can be the key to motivate the creation of other chapters in Brazil and increase the strength of the Brazilian R community.
+
+
+---
+class:  middle
+
+## Thanks!
+Presentation made with [Xaringan](https://github.com/yihui/xaringan) and [Kunoichi](https://github.com/emitanaka/ninja-theme).

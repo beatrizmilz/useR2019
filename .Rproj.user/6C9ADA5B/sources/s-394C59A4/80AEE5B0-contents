@@ -1,0 +1,15 @@
+---
+title: "The evolution and importance of the R-Ladies São Paulo chapter in Brazil "
+subtitle: "⚔<br/Topic :Open science, education &C communitn"
+author: "Beatriz Milz & Bruna Wundervald"
+institute: "RStudio, Inc."
+date: "11/07/2019 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+

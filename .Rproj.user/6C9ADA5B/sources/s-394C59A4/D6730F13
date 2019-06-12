@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560256994321.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3682160776",
+    "id" : "D6730F13",
+    "lastKnownWriteTime" : 1560344928,
+    "last_content_update" : 1560344928729,
+    "path" : "~/GitHub/useR2019/docs/index.Rmd",
+    "project_path" : "docs/index.Rmd",
+    "properties" : {
+        "cursorPosition" : "130,3",
+        "docOutlineSize" : "131",
+        "docOutlineVisible" : "1",
+        "last_setup_crc32" : "394C59A4b3adf965",
+        "scrollLine" : "122",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
