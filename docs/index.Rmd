@@ -38,8 +38,20 @@ knitr::include_graphics("img/logos_bia.png")
 ---
 class: middle
 ## Bruna Wundervald
+- R-Ladies São Paulo Co-organizer
+  - Email: <a href="brunadaviesw@gmail.com">brunadaviesw@gmail.com</a>
+  - Webpage: https://brunaw.com 
+  - Github: <a href="http://github.com/brunaw">@brunaw</a>
+  - Twitter: <a href="http://twitter.com/bwundervald">@bwundervald</a>
 
-- (Bru adiciona aqui uma apresentação sua)
+- Ph.D. Candidate in Statistics at Maynooth University, Ireland
+
+- Science Foundation Ireland Career Development Award grant number
+17/CDA/4695
+
+```{r, out.width="40%"}
+knitr::include_graphics("img/SFI.jpg")
+```
 
 
 
@@ -51,7 +63,7 @@ knitr::include_graphics("img/hexlogorladies.jpeg")
 ```
 ## What is R-Ladies?
 
-Worldwide organization that  promotes **gender diversity** in the R community. 
+Worldwide organization that  promotes **gender diversity** in the `R` community. 
 
 ## How?
 
@@ -59,7 +71,8 @@ Meetups and mentorship in a friendly and safe environment.
 
 
 ## For whom?
-Underrepresented genders - including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender
+Underrepresented genders - including but not limited to:
+  - cis/trans women, trans men, non-binary, genderqueer, agender
 
 
 Learn more: [About us - R-Ladies](https://rladies.org/about-us/)
@@ -76,7 +89,7 @@ Rio de Janeiro, Americana, Natal, Porto Alegre, **São Paulo**, Belo Horizonte, 
 
 - 35% of R-Ladies chapters in Latin America are in Brazil.
 
-```{r, out.width="35%", fig.cap="<center><b>R-Ladies in Latin America</center></b>"}
+```{r, out.width="40%", fig.cap="<center><b>R-Ladies in Latin America</center></b>"}
 knitr::include_graphics("img/rshinyladylatam.PNG")
 ```
 
@@ -98,15 +111,24 @@ knitr::include_graphics("img/1meetupsp.jpeg")
 class: middle
 ## Activities
 
-- The chapter already held 10 events, including meetups, workshops, datathons, and other meetings are being planned. 
+- Already held 10 events, including:
+  - meetups, 
+  - workshops, 
+  - datathons.
 
-```{r out.width="40%"}
+
+```{r out.width="50%"}
 knitr::include_graphics("img/foto_loggi.jpeg")
 ```
 
-- The R-Ladies São Paulo also gave a workshop in the R-Ladies Niterói (May/2019).
+**+meetings are monthly being planned!**
+---
+class: middle
+## Activities: partnership with other chapters
 
-```{r out.width="40%"}
+- Workshop in the R-Ladies Niterói (May/2019).
+
+```{r out.width="60%"}
 knitr::include_graphics("img/rladiesniteroi.jpeg")
 ```
 ---
@@ -114,36 +136,44 @@ class: middle
 
 ## Collaboration
 
-- The chapter also collaborates with other projects, through lectures and workshops, also always open to the community.  
+- We also collaborate with other projects:
+  - lectures, workshops,
+  - always open to the community.  
 
-- Some organizatons also contributes with R-Ladies São Paulo, offering spaces for the Meetup, coffe-break, and scholarship on courses.
+- Sponsors: venues for the Meetups, coffe-break, and scholarships on courses and events.
 
-```{r, out.width="70%", fig.cap="<center><b>Some organizations that collaborated with R-Ladies São Paulo</center></b>"}
+```{r, out.width="60%", fig.cap="<center><b>Some organizations that collaborated with R-Ladies São Paulo</center></b>"}
 knitr::include_graphics("img/poster_SER_2019-PREENCHIDO.png")
 ```
 
 ---
 class: middle
 
-## Important points
+## Important points!
 
-- The group provides a safe environment for people interested in R. Code of condut:
-   - [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese)
+- The group provides a safe environment for people interested in `R`. 
+   - Code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese)
 
-- All of the content presented is made available on github in portuguese, so anyone can access it:
+- All of the content presented is made available freely on github in portuguese:
 
    - [https://github.com/rladies/meetup-presentations_sao-paulo](https://github.com/rladies/meetup-presentations_sao-paulo)
 
-- All of the activities are free to attend. The gratuity of the activities is very relevant in the Brazilian context, since the few R courses available in Portuguese are often expensive, and there is no other active R group in Sao Paulo. 
+- **All of the activities are free to attend**
+  - The gratuityis very relevant in the Brazilian context:
+  the few `R` courses available in Portuguese are often expensive, and there is no other active `R` group in São Paulo (the biggest city in Brazil!). 
 
 ---
 class: middle
 ## Conclusion
 
-- The increasing popularity of the R-Ladies São Paulo shows us how important it is to support it, what can be the key to motivate the creation of other chapters in Brazil and increase the strength of the Brazilian R community, and the inclusion of unrepresented groups. 
+- The increasing popularity of the R-Ladies São Paulo shows us how important it is to support it, 
+
+- It can be the key to motivate the creation of other chapters in Brazil, 
+
+- It helps to increase the strength of the Brazilian R community and the inclusion of underrepresented groups. 
 
 ---
-class:  middle
+class:  center, middle
 
 ## Thanks!
 Presentation made with [Xaringan](https://github.com/yihui/xaringan) and [Kunoichi](https://github.com/emitanaka/ninja-theme).
