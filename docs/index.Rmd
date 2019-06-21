@@ -12,6 +12,8 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      autoplay: 20000
+      countdown: 20000
 ---
 class: middle
 ```{r setup, include=FALSE}
