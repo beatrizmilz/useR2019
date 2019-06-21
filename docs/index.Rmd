@@ -1,8 +1,8 @@
 ---
+# Para transformar em PDF, usar: pagedown::chrome_print("docs/index.html")
 title: "The evolution and importance of the R-Ladies São Paulo chapter in Brazil "
-subtitle: "Topic: Open science, Education & Community"
+subtitle: "Topic: Open science, Education & Community <BR> bit.ly/R-LadiesSP"
 author: "Beatriz Milz & Bruna Wundervald"
-#institute: "R-Ladies São Paulo"
 date: "11/07/2019"
 output:
   xaringan::moon_reader:
@@ -31,9 +31,9 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```{r, out.width="100%"}
 knitr::include_graphics("img/logos_bia.png")
 ```
--  FAPESP postgraduate scholarship nº 2018/23771-6 
+-  FAPESP postgraduate scholarship - Process nº 2018/23771-6 
 
-- FAPESP Thematic Project  nº 2015/03804-9 
+- FAPESP Thematic Project - Process nº 2015/03804-9 
 
 ---
 class: middle
@@ -87,13 +87,13 @@ class:  center, middle
 - 12 R-Ladies Chapters:
 Rio de Janeiro, Americana, Natal, Porto Alegre, **São Paulo**, Belo Horizonte, Curitiba, Niterói, Salvador, Florianópolis, Lavras, Goiânia.
 
-- 35% of R-Ladies chapters in Latin America are in Brazil.
+- Brazil: 35% of R-Ladies chapters in Latin America.
 
 ```{r, out.width="38%", fig.cap="<center><b>R-Ladies in Latin America</center></b>"}
 knitr::include_graphics("img/rshinyladylatam.PNG")
 ```
 
-Reference: [R-Ladies Shiny App](https://gqueiroz.shinyapps.io/rshinylady/)  (11/06/2019)
+Reference: [R-Ladies Shiny App](https://gqueiroz.shinyapps.io/rshinylady/)  (June/2019)
 
 ---
 class:  center, middle
@@ -103,7 +103,7 @@ class:  center, middle
 ```{r }
 knitr::include_graphics("img/1meetupsp.jpeg")
 ```
-- **First R-Ladies São Paulo Meetup** - August 2018
+- **First R-Ladies São Paulo Meetup** - August/2018
 
 - **+430 members** - June/2019 
 
@@ -122,13 +122,46 @@ knitr::include_graphics("img/foto_loggi.jpeg")
 ```
 
 **+meetings are monthly being planned!**
+
+---
+class: middle
+
+## Activities
+
+###Content - Focused on some packages:
+- Learning `dplyr`, `ggplot2`, `rmarkdown`
+- Dealing with strings with `stringr`
+- Presentations with `xaringan`
+- Functional Programming with `purrr`
+
+```{r out.width="22%", fig.align = "default"}
+knitr::include_graphics(c("img/rlogos/hex-tidyverse.jpg","img/rlogos/hex-dplyr.png","img/rlogos/hex-stringr.png", "img/rlogos/hex-ggplot2.png", "img/rlogos/hex-purrr.jpg", "img/rlogos/hex-rmarkdown.png", "img/rlogos/hex-xaringan.png"))
+```
+
+---
+class: middle
+
+## Activities
+
+###Content - Focused on case presentations:
+
+- Exploring Open Data
+- Google Analytics Data extraction
+- News article with electoral data
+- Economics and Transportation DataViz
+
+```{r out.width="100%"}
+knitr::include_graphics("img/Rplot-highchart.png")
+```
+
+
 ---
 class: middle
 ## Activities: partnership with other chapters
 
-- Workshop in the R-Ladies Niterói (May/2019).
+- Workshop with R-Ladies Niterói (May/2019).
 
-```{r out.width="60%"}
+```{r out.width="90%"}
 knitr::include_graphics("img/rladiesniteroi.jpeg")
 ```
 ---
@@ -159,8 +192,9 @@ class: middle
    - [https://github.com/rladies/meetup-presentations_sao-paulo](https://github.com/rladies/meetup-presentations_sao-paulo)
 
 - **All of the activities are free to attend**
-  - The gratuityis very relevant in the Brazilian context:
-  the few `R` courses available in Portuguese are often expensive, and there is no other active `R` group in São Paulo (the biggest city in Brazil!). 
+
+  - The gratuity is very relevant in the Brazilian context:
+  the few `R` courses available in Portuguese are often expensive, and there is no other active `R` group in São Paulo (the biggest city in Brazil!) that provides this type of content free of charge.
 
 ---
 class: middle
@@ -172,6 +206,10 @@ class: middle
 
 - It helps to increase the strength of the Brazilian R community and the inclusion of underrepresented groups. 
 
+```{r, out.width="40%", fig.cap="<center><b>Illustration by Allison Horst - Twitter: <a href='https://twitter.com/allison_horst/status/1066382489080389633'> @allison_horst</a> </center></b>"}
+knitr::include_graphics("img/alissonhorst.jpg")
+```
+
 ---
 class:  center, middle
 
@@ -181,6 +219,22 @@ class:  center, middle
 knitr::include_graphics("img/rshinyladyglobal.PNG")
 ```
 
+---
+class:  center, middle
 
 ## Thanks!
-Presentation made with [Xaringan](https://github.com/yihui/xaringan) and [Kunoichi](https://github.com/emitanaka/ninja-theme).
+
+- **[useR! 2019](https://user2019.r-project.org/)** - Diversity Scholarship
+
+- **[R-Ladies Global](https://rladies.org/)**
+
+- **R-Ladies São Paulo Co-Organizers**: 
+  - [Haydée Svab](https://www.linkedin.com/in/hsvab/)
+  - [Alissa Munerato](https://br.linkedin.com/in/alissa-munerato-1b0501103)
+  - [Bruna Wundervald](http://brunaw.com/)
+  - [Beatriz Milz](https://beatrizmilz.github.io/)
+  - [Bruna Garbes](https://github.com/brunagarbes)
+  - [Nathália Demetrio](https://github.com/natydemi)
+
+
+- Presentation made with [Xaringan](https://github.com/yihui/xaringan) and [Kunoichi](https://github.com/emitanaka/ninja-theme).
