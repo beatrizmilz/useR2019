@@ -15,13 +15,23 @@ output:
       autoplay: 20000
       countdown: 20000
 ---
-class: middle
+class:  split-30 with-border border-purple center middle
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```
 
+.column.bg-main3[.content.vmiddle.center[
 
 ## Beatriz Milz
+```{r, out.width="90%", fig.align='center'}
+knitr::include_graphics("img/beatriz.jpg")
+```
+
+<br><br><br>
+]]
+
+.column.bg-white[.content.vmiddle.center[
 - R-Ladies São Paulo Co-organizer
 
   - Email: <a href="mailto:beatriz.milz@usp.br">beatriz.milz@usp.br</a>
@@ -33,13 +43,31 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```{r, out.width="100%"}
 knitr::include_graphics("img/logos_bia.png")
 ```
+
 -  FAPESP postgraduate scholarship - Process nº 2018/23771-6 
 
 - FAPESP Thematic Project - Process nº 2015/03804-9 
 
+]]
+
 ---
-class: middle
+class:  split-30 with-border border-purple center middle
+
+.column.bg-main3[.content.vmiddle.center[
+
+
 ## Bruna Wundervald
+
+```{r, out.width="90%", fig.align='center'}
+knitr::include_graphics("img/brunaw.jpg")
+```
+
+
+
+<br><br><br>
+]]
+
+.column.bg-white[.content.vmiddle.center[
 - R-Ladies São Paulo Co-organizer
   - Email: <a href="brunadaviesw@gmail.com">brunadaviesw@gmail.com</a>
   - Webpage: https://brunaw.com 
@@ -55,6 +83,9 @@ class: middle
 knitr::include_graphics("img/SFI.jpg")
 ```
 
+
+
+]]
 
 
 ---
