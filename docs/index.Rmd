@@ -12,8 +12,6 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      autoplay: 20000
-      countdown: 20000
 ---
 class:  split-30 with-border border-purple center middle
 
